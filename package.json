@@ -1,0 +1,16 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
